@@ -1,0 +1,949 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fall of man declared and the way declared in plainnesse and according unto truth ... : and a warning from the Lord God of life ...</title>
+            <author>Kent, Tho. (Thomas)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47271</idno>
+            <idno type="STC">Wing K318</idno>
+            <idno type="STC">ESTC R34491</idno>
+            <idno type="EEBO-CITATION">14470358</idno>
+            <idno type="OCLC">ocm 14470358</idno>
+            <idno type="VID">102390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1062:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fall of man declared and the way declared in plainnesse and according unto truth ... : and a warning from the Lord God of life ...</title>
+                  <author>Kent, Tho. (Thomas)</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Tho. Kent.</note>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fall of man.</term>
+               <term>Theology, Doctrinal --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102390:1"/>
+            <pb facs="tcp:102390:1"/>
+            <p>THE Fall of Man DECLARED. AND The way declared in plainneſſe
+and ac<g ref="char:EOLhyphen"/>cording unto Truth, how faln Man and Woman may be reſtored into that
+pure innocent ſtate and be<g ref="char:EOLhyphen"/>ing that <hi>Adam</hi> was in before the fall. AND
+A Warning from the Lord God of life and power in bowels of dear and tender love
+unto all, the Rulers, Prieſts and People, that they haſten to Repentance,
+who are ſpending their time without the fear of the Lord, and nou<g ref="char:EOLhyphen"/>riſhing
+their hearts as in a day of ſlaughter.</p>
+            <p>
+               <hi>For the triumphing of the wicked is but ſhort, and the hope
+of the hy<g ref="char:EOLhyphen"/>pocrite but for a moment, and though his excellency mount up to the
+heavens, and his head reach the clouds, yet ſhall he periſh like his own
+dung, and he ſhall vaniſh away like a night viſion, and they which ſaw
+him ſhall ſee him no more.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the ſign
+of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="section">
+            <pb facs="tcp:102390:2"/>
+            <pb n="3" facs="tcp:102390:2"/>
+            <head>The Fall of Man Declared.</head>
+            <p>
+               <seg rend="decorInit">G</seg>OD who made the World and all things there<g ref="char:EOLhyphen"/>in, who formed the
+mountains, and created the Winds, who is a God at hand, and not a God afar off,
+who is near unto all that call up<g ref="char:EOLhyphen"/>on him in Truth and Righteouſneſſe.</p>
+            <p>Oh all people, <hi>Seek ye the Lord while he may be found, and
+call upon him while he is near,</hi> you <hi>he created Male and Female after
+his own Image,</hi> and to do his will, and to delight alone in him, and to
+worſhip, ſerve and obey him, who gave man whom he created after his own
+image, power and authori<g ref="char:EOLhyphen"/>ty, and ſet him over and above all the creatures,
+which he by the word of his power created for the uſe and ſervice of man;
+<hi>I</hi> ſay the Lord God gave man, ſo long as man continued in obedience
+unto him, power and authority over all the fowls of the ayr and the fiſhes of
+the ſea, and the beaſts of the field; And the Lord God he planted a gar<g ref="char:EOLhyphen"/>den
+in <hi>Eden,</hi> and he took man whom he had formed and put him into the
+Garden to dreſſe it and to keep it, and commanded him ſaying, <hi>Of
+every tree in the Garden thou mayſt freely eat, but of the tree of the
+knowledge of good &amp; evil thou ſhalt not eat of it, for in the day that
+thou eateſt thereof thou ſhalt ſurely die:</hi> And the Lord God he
+ſaid <hi>It is not good that the man ſhould be alone, I will make him a
+meet help for him, and the Lord God made of the rib which he took from man, a
+woman, and brought her unto man,</hi> and ſaid; <hi>Adam, this is now bone of
+my bone and fleſh of my fleſh, and ſhe ſhall be called woman,
+be<g ref="char:EOLhyphen"/>cauſe ſhe was taken out of man.</hi>
+            </p>
+            <p>
+               <hi>Now the Serpent being more ſubtile then any beaſt of the
+field which God had made,</hi> ſaith he, <hi>Yea hath God ſaid of every
+tree in the Garden you may not eat of,</hi> The Woman ſaid unto the
+ſerpent, <hi>We may eat of the fruit of the trees of the Garden, but of the
+tree that is in the midſt of the Garden, God hath ſaid ye ſhall not eat
+of it, neither ſhall ye touch it leaſt ye die.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:102390:3"/>Now the ſerpent being more ſubtile then any
+beaſt of the field, although God had ſaid <hi>in the day thou eateſt
+thereof thou ſhalt ſurely die:</hi> ſaid the ſerpent unto the woman,
+<hi>Ye ſhal not ſurely die, for God doth know that in the day ye eat
+thereof, then your eyes ſhall be opened, and ye ſhall be as gods knowing
+good and evil, and when the woman ſaw that it was good for food, and
+pleaſant to the eyes, and a tree to be deſired to make one wiſe, ſhe
+took of the fruit thereof and did eat, and gave unto her husband with her and
+he did eat, and immediately their eyes were opened, and they ſaw that they
+were naked, and they gathered fig-leaves, and ſewed them together to make
+themſelves aprons,</hi> for to make a covering to hide them from the
+preſence of the Lord, (mark that) all ye people who are yet in the fall, in
+the tranſgreſſion, driven out from the preſence of the Lord into the
+earth, that when man &amp; woman had diſobeyed &amp; tranſ<g ref="char:EOLhyphen"/>greſſed the
+command of the Lord God, in eating of the the forbidden fruit, that was of the
+tree of knowledge of good and evil, which God commanded, man whom he had
+created after his own image, ſaying, <hi>Of the tree of the know<g ref="char:EOLhyphen"/>ledge of
+good and evil thou mayeſt not eat, for in the day thou eat<g ref="char:EOLhyphen"/>eſt thereof thou
+ſhalt ſurely die:</hi> I ſay that when man and wo<g ref="char:EOLhyphen"/>man had diſobeyed the
+Command of the Lord in eating of the forbidden fruit, immediately their eyes
+were opened, and they ſaw that they were naked, and they ſewed figg-leaves
+together for to hide themſelves from the preſence of the Lord, <hi>And they
+heard the voyce of the Lord God walking in the Garden in the coole of the
+day,</hi> they ſeeing their nakedneſs <hi>they hid themſelves amongſt
+the trees of the Garden</hi> from the pre<g ref="char:EOLhyphen"/>ſence of the Lord, (mark that) all
+ye who are in the fall, in the tranſgreſſion, and ſpending your dayes
+without the fear of the Lord, and your precious time which the Lord God
+ſpares you, for to ſee if you will return unto him, in ſports,
+pleaſures, rioting and wickedneſſe; turn in your minds into the
+<hi>light</hi> of the Son of God, with which you are enlightned, which checks
+and reproves you for ſin and evil, and makes manifeſt the evil of your
+doings, and the thoughts and intents of your hearts unto you, when there is no
+man preſent with you, or can accuſe of them, yet is the Lord God preſent
+with you by his <hi>light,</hi> which is his <pb n="5" facs="tcp:102390:3"/>true and
+faithful witneſſe, which he hath placed in you which never conſented unto
+ſin and evil, but is a witneſſe for God againſt ſin and evil; I
+ſay, then is the Lord pre<g ref="char:EOLhyphen"/>ſent to reprove you, and to condemn you for the
+evil of your doings; I ſay turn in your minds into the <hi>Light</hi> of the
+Son of God, with which you are inlightned, and come and let us reaſon
+together a little; Is there not in you after the height of your wickedneſſe
+is over, and you come into a little calmneſſe in the cool of the day, a
+ſtill low voice following of you, and crying in you, man or Woman; <hi>Where
+art thou? what is this which thou haſt done?</hi> Then by the <hi>light</hi>
+of Chriſt in thee, with which thou art enlightned, comes to ſee thou haſt
+diſobeyed the Com<g ref="char:EOLhyphen"/>mand of the Lord God; And that thou haſt acted con<g ref="char:EOLhyphen"/>trary
+unto his pure mind, and will, and unto his true and faithful witneſſe in
+thee, which is the <hi>light</hi> of the Son of God, with which thou art
+enlightned; So I ſay, by that thou comes to ſee that thou art naked, and
+then terrour and fear takes hold upon thee; and then thou ſtrives to get a
+covering to hide thy ſelf from the preſence of the Lord; then in that
+ſtate and condition, as thou art ſtriving to get ſome Fig-leaved Garment,
+or ſome words, as the ene<g ref="char:EOLhyphen"/>my of thy ſouls peace, that old ſerpent, who
+was a lyar from the beginning, ſhall put into thee, or raiſe up in thee to
+ſpeak; but this I tell ye all from the Lord God, who are yet in the fall, and
+in the tranſgreſſion, driven out from the preſence of the Lord, and
+without God in the World, that all the coverings that you have made, or ever
+ſhall make, are too narrow, and they cannot hide you, neither can you be hid
+under them from the pre<g ref="char:EOLhyphen"/>ſence of the Lord God; for from the Lord God you
+can<g ref="char:EOLhyphen"/>not hide, nor from him you cannot flie, but unto him you muſt give an
+account, for the deeds and works done in the body, whether they be good, or
+whether they be evil; And the woe of the Lord is unto all ye who are making
+falſe fained coverings, to hide you from the Lord, and from the eyes of men;
+for <hi>woe</hi> ſaith the Lord, <hi>unto the rebellious Children, who take
+counſell and not of me, and that cover with a covering, but not with my
+Spirit;</hi> And <hi>woe unto them that <pb n="6" facs="tcp:102390:4"/>hide their ſins,
+for they ſhall not proſper;</hi> And this I tell you again from the Lord,
+that your coverings are too narrow, and they cannot hide you, neither are you
+hid under them from the Lord, nor from the pure ſingle Eie, which the Lord
+God hath opened in hundreds of his dear Babes and Lambs, who are counted by you
+the off-ſcouring of all things, and people not fit to live upon the Earth,
+and as ſheep for the ſlaughter; and are reproachfully, and ſcornfully by
+you called <hi>Quakers.</hi>
+            </p>
+            <p>So now all people as you tender the good of your own ſouls, and
+have any deſire to know the Lord God who created ye, this is the counſel of
+the Lord God unto ye; <hi>Oh! Turn in, turn in your minds into the Light of the
+Son of God, with which you are enlightned, and waite ye in patience in it; and
+hearken diligently unto the Voice of the Lord, unto the Voice of the true
+Prophet Chriſt Jeſus, the Son of God, the light of the World, Who is the
+light that enlightneth every man that cometh into the World, who muſt be
+heard in all things;</hi> For ſaid the ſervant of the Lord, <hi>A Prophet
+will the Lord your God raiſe up unto you, of your brethren like unto me, him
+ſhall ye hear in all things, whatſoever he ſhall ſay unto you, And it
+ſhall come to paſſe, that every ſoul which will not hear that Prophet,
+ſhall be deſtroyed from amongſt the People.</hi>
+            </p>
+            <p>So all people who are yet in the fall, in the
+tranſgreſſi<g ref="char:EOLhyphen"/>on, driven out from the preſence of the Lord into the
+Earth, and without God in the World; I ſay as you ten<g ref="char:EOLhyphen"/>der the good, and
+welfare, and happineſſe of your im<g ref="char:EOLhyphen"/>mortal ſouls ceaſe from man, whoſe
+breath is in his noſtrils, who keeps you <hi>ever learning, but never able to
+come to the knowledge of the Truth;</hi> and give not way unto that ſpi<g ref="char:EOLhyphen"/>rit
+which hath led and acted you into ſin, and into tranſ<g ref="char:EOLhyphen"/>greſſion, into
+lightneſſe, and ayrineſſe; but turn in your minds into the
+<hi>light</hi> of the Son of God, and keep in your minds, and wait ye in
+patience in it, and hearken ye dili<g ref="char:EOLhyphen"/>gently unto the voice the true Prophet
+Chriſt Jeſus, the Light of the World, who is the true Light, that
+enlight<g ref="char:EOLhyphen"/>neth every man that cometh into the World; I ſay, hear<g ref="char:EOLhyphen"/>ken ye
+diligently unto the voice of the true Prophet, which is a ſtill low voice
+which follows the Creature, and when <pb n="7" facs="tcp:102390:4"/>the Creature turns
+either unto the right hand or unto the left, it ſaith <hi>this is the way
+walk in it;</hi> (Mark that) all ye who are yet in the fall and in the
+tranſgreſſion, that is the voice of the true Prophet which cries in you
+for purity and holineſſe, and after the heighth of your wickedneſſe is
+over, and you come into a little calmneſſe, then in the cool of the day it
+cries <hi>in you</hi> Man or Woman, <hi>where art thou?</hi> what is this that
+thou haſt acted and done, then you with the Light of the Son of God comes to
+ſee your nakedneſſe, and then you ſtrive to make coverings to hide your
+ſelves from the preſence of the Lord, and in this ſtate and condi<g ref="char:EOLhyphen"/>tion,
+as I ſaid before, the wo of the Lord is unto you, For wo ſaith the Lord
+unto the rebellious Children who take counſel and not of me, and that cover
+with a covering but not with my Spirit.</p>
+            <p>And the Lord God called unto <hi>Adam,</hi> and ſaid, <hi>where
+art thou,</hi> ſayes <hi>Adam</hi> unto God again, <hi>I heard thy voice and
+I was afraid, becauſe I was naked, and I hid my ſelf;</hi> ſo when Man
+whom God created after his own Image, had diſobey<g ref="char:EOLhyphen"/>ed the command of the Lord
+who created him, in eating of the forbidden fruit, that is of the tree of
+knowledge of good and evil, which God ſaid in the day thou eateſt thereof
+thou ſhalt ſurely dye, and immediately after <hi>Adam</hi> and <hi>Eve</hi>
+his wife had eaten of the forbidden fruit, the Lord he opened their eyes, and
+then they ſaw their nakedneſſe, and they gathered fig-leaves and ſewed
+them together to make them coverings, and they ſtrove to hide themſelves
+amongſt the trees of the garden from the preſence of the Lord; and ſaid
+the Lord unto <hi>Adam,</hi> who ſhewed thee thy naked<g ref="char:EOLhyphen"/>neſſe? Haſt thou
+eaten of the forbidden fruit, which I commanded thee that thou ſhouldſt not
+eat of; Then an<g ref="char:EOLhyphen"/>ſwered <hi>Adam</hi> unto the Lord, <hi>the woman that thou
+gaveſt to be with me did give unto me and I did eat;</hi> Then ſaid the
+Lord unto the Woman, <hi>What is this that thou haſt done?</hi> Then
+an<g ref="char:EOLhyphen"/>ſwered the Woman and ſaid, <hi>The Serpent did beguile me and I did
+eat;</hi> Then ſaid the Lord God unto the Serpent, <hi>for this that thou
+haſt done thou art curſed above all Cattle, and above every Beaſt of the
+field, upon thy belly ſhalt thou go, and duſt ſhall be thy meat all the
+dayes of thy life;</hi> And ſaid the Lord God, <hi>I <pb n="8" facs="tcp:102390:5"/>will
+put enmity between thee and the woman, and between thy ſeed and her ſeed,
+and it ſhall bruiſe thy head,</hi> that is the ſeed of the woman, <hi>and
+thou ſhalt bruiſe her heel.</hi>
+            </p>
+            <p>And ſo now all people who are yet in the fall, and in the
+tranſgreſſion, in the earth driven out from the preſence of the Lord,
+unredeemed, and without God in the world; This I write unto you all in dear
+love, and in bowels of tender love, and as you prize the good of your own
+ſouls conſider, and lay it to heart, how you have ſpent your time without
+the fear of the Lord God, who created you to do his will, and to ſerve and
+obey him; ſo now I ſay unto you all, come to a true and a ſerious
+conſideration for what end and purpoſe God created you, whether to do his
+will, and to ſerve and obey him, or to do your own wicked corrupt wills, and
+to ſerve and obey your own hearts luſts, unto the witneſſe of God in
+all your Conſciences do I ſpeak, which I know from the Lord God will
+anſwer, and confeſſe, that God created you to do his will, and to ſerve
+and obey him; Then this is the counſel of the Lord God unto you, and my
+exhortation unto you all, in his pure dread and fear, and in bowels of tender
+love unto your ſouls, Oh dread and fear ye God, and let the time paſt be
+too much which you have ſpent without the fear of the Lord God, and ceaſe
+to do evil, and learn to do well, and go on no longer in rebellion and
+diſobedience unto the Lord God, leaſt you provoke his wrath againſt you,
+to de<g ref="char:EOLhyphen"/>ſtroy you; Therefore I ſay <hi>kiſſe the Son leaſt he be angry
+and ye periſh in the way, for when his wrath is kindled but a little,
+bleſſed and happy are all they who put their truſt in him.</hi>
+            </p>
+            <p>Now as touching the ſtate and condition that man was in before
+the fall, and before he diſobeyed, ſo long as he continued in obedience
+unto the command of the Lord, and in that pure, innocent, holy, and
+harmleſſe being wherein God created him, he did enjoy the preſence of the
+Lord God, and had Union, and Communion, and Fellow<g ref="char:EOLhyphen"/>ſhip with the Lord, and
+then he had power and authority over the Creatures which God created for the
+uſe and ſervice of man, but through diſobedience and tranſgreſſion
+unto the holy and righteous command of the Lord God, <pb n="9" facs="tcp:102390:5"/>who
+created him, he the Creature man loſt the image in which he was created, and
+loſt alſo his Union, and Com<g ref="char:EOLhyphen"/>munion, and Fellowſhip with the Lord, which
+he had with the Lord before he diſobeyed his command, ſo through
+diſobedience he was drove into the earth from the preſence of the Lord, and
+then the Lord placed <hi>Cherubims</hi> and a <hi>flaming ſword</hi> at the
+garden of <hi>Eden,</hi> which turned every way to keep the way of the tree of
+life, ſo through mans diſobedience he loſt the image, and was driven out
+from the preſence of the Lord into the earth, and loſt his Power,
+Authority, and Dominion which he had with the Lord be<g ref="char:EOLhyphen"/>fore he diſobeyed, he
+loſt that Power, and that Authority, and that Dominion which he had over the
+Creatures which God created for the uſe and ſervice of man; So now ſince
+the fall of Man, his fall being ſo great, the Creatures have had Power and
+Dominion over the Creature Man, and Man hath been in bondage unto the
+Creatures, through diſobedience unto God the Creator, (Mark that all ye
+un<g ref="char:EOLhyphen"/>believers, who will not believe in Chriſt Jeſus the Light) who are yet
+in the fall, in the tranſgreſſion, and in the Earth driven out from the
+preſence of the Lord, and with<g ref="char:EOLhyphen"/>out God in the world, who are in bondage and
+in ſlavery unto the Creatures, and they have Power, and Dominion over you,
+ſome of you running into the abuſe of one Crea<g ref="char:EOLhyphen"/>ture, and ſome of you
+running into the abuſe of another, your hearts being fixed and ſetled in
+the Earth, and in ſome Creature-enjoyment, your treaſure being in the Earth
+and Earthly things, there is your hearts alſo; So now as you are in the fall,
+in the tranſgreſſion driven out from the preſence of the Lord into the
+Earth, and you ſtanding in this ſtate and condition, the Creatures which
+Man had power over at the beginning, ſo long as he ſtood in the counſel
+of God, they Rule and have Power and Dominion over you, you being run into the
+abuſe of the Creatures, ſo hereby you are in ſlavery and in bondage unto
+them.</p>
+         </div>
+         <div type="section">
+            <pb n="10" facs="tcp:102390:6"/>
+            <head>No way out of the Fall but by following the Light.</head>
+            <p>
+               <hi>NOw all people who are yet in the fall, and in the
+tranſ<g ref="char:EOLhyphen"/>greſſion driven out from the preſence of the Lord into the Earth,
+and without God in the World, as the Lord God giveth me utterance, I ſhall
+declare the way in plainneſſe, and according unto the Truth, how fallen Men
+and Women may be reſtored into that pure innocent ſtate, and being
+that</hi> Adam <hi>was in before the fall.</hi>
+            </p>
+            <p>Oh all people, dread, dread, dread, and fear, and trem<g ref="char:EOLhyphen"/>ble before
+the living God of Heaven and Earth, at whoſe voice the wind and the Sea
+obeyeth, who by the breath of his Noſtrils, and the brightneſſe of his
+coming, he will ſlay the wicked; Oh return, return, return unto the Lord God,
+and repent while ye have time, and turn in your minds into the <hi>light</hi>
+of the Son of God, in your own Con<g ref="char:EOLhyphen"/>ſciences, with which he hath enlightned
+you, who is the true Light that enlightneth every man that cometh into the
+world, who came not into the world to ſave man in ſin, but from ſin, and
+in him is no ſin, and whoſoever a<g ref="char:EOLhyphen"/>bideth <hi>in him</hi> ſinneth not,
+neither can he ſin becauſe <hi>his ſeed remaineth in him;</hi> therefore
+I ſay unto ye all, unto the light of Chriſt take heed, and keep in your
+minds, and wait ye in patience <hi>in it,</hi> in that which checks and
+reproves you for ſin and evil, and makes manifeſt the evil of your doings
+unto you, when no man ſees you, or can accuſe you of it, yet is the Lord
+God preſent with his Light, which is his true and faithful witneſſe which
+he hath placed in man, which never conſented unto ſin or evil, but ſtands
+a wit<g ref="char:EOLhyphen"/>neſſe for God in man againſt ſin and evil, I ſay the Lord God
+is preſent with his Light to condemn you for ſin and evil.</p>
+            <p>Therefore I ſay ſubmit ye unto the Lord God, and unto 
+<pb n="11" facs="tcp:102390:6"/>the Light of his Son, which is manifeſted in you, and
+humble your ſelves, and lye down under the hand of his mighty power, that he
+may pour out his judgements, and vials of wrath, and plagues, and woes upon the
+head of the wicked <hi>in you,</hi> which rules and reigns in you as
+<hi>King,</hi> and hath led and doth ſtill lead and act you into ſin and
+into tranſgreſſion, that ſo the Lord God may ſhew mercy unto your
+ſouls, for the Lord he ſhews not mercy unto that which hath led and acted
+the Creature into tranſgreſſion, but it is his own ſeed in man which
+lieth yet <hi>in you</hi> oppreſſed and burthened as a Cart preſſed
+with ſheaves, by reaſon of ſin and wickedneſſe, which is yet
+remaining alive in you, and uncrucified, and unſubdued, by the power of God;
+Therefore this is the counſel of the Lord God unto you all, turn in, turn in
+your minds into the <hi>light</hi> of the Son of God, and wait ye in patience
+in it, that you may feel the power of the Lord God to crucifie and to ſubdue,
+and to expell and to work out all that in you which entred into man through
+diſobedience and tranſgreſſion, that ſo the ſeed of God, the ſeed
+immortal, which is yet oppreſſed in you, may be eaſed and delivered, that
+ſo it may grow and increaſe unto the praiſe and glory of the Lord, who is
+God bleſſed for evermore, Amen.</p>
+            <p>Therefore I ſay in love unto all your ſouls, ſubmit ye unto
+the Lord God, and lye down under the hand of his mighty <hi>power,</hi> that
+ſo he may pour out his judgements, and his vials of wrath upon that which
+hath led and acted you into tranſgreſſion, that ſo he may ſhew mercy
+unto your ſouls, for the Lord he ſhews not mercy, as I ſaid before, unto
+that which leads the Creature into tranſgreſſion, but he ſhews mercy
+unto his own ſeed <hi>in man,</hi> which never con<g ref="char:EOLhyphen"/>ſented to ſin or evil,
+and he that repents and forſakes his ſins, and turns unto the Lord with a
+purpoſe of heart, then will the Lord God ſhew mercy unto his ſoul.</p>
+            <p>And this is the counſel of the Lord God unto you, in dear and in
+tender love unto your ſouls, turn in, turn in your minds into the
+<hi>light</hi> of the Son of God in your own particulars, with which you are
+enlightned, which is the true Light that enlightneth every man that cometh into
+<pb n="12" facs="tcp:102390:7"/>the world; Therefore I ſay, unto the Light of Chriſt
+take heed and wait ye in patience in the Croſſe, in that which is a
+Croſſe unto your carnal minds and wills, which are running abroad into the
+Earth, and Earthly things, for in the Croſſe and through the Croſſe is
+the power of the Lord God felt and witneſſed, although the preaching of the
+Croſſe was unto the <hi>Greeks</hi> fooliſhneſſe, and unto the
+<hi>Jews</hi> a ſtumbling block, yet this I can give in my Teſtimony for
+the Lord God, that unto us which are ſaved <hi>it is the power of God unto
+Salvation, unto ever, one that believeth;</hi> Therefore I ſay turn in your
+minds into the Light of Chriſt in your own particulars, which is made
+manifeſt in you, and wait ye in patience in the Croſſe, that you feel and
+ſee the power of the Lord to ſlay the enmity and to take away the cauſe,
+and to break down the partition-wall, and to rent the vail; Now I ſay, who am
+a lover of all ſouls, wait in patience in the Croſſe, that you may feel
+and ſee the pow<g ref="char:EOLhyphen"/>er of the Lord God to take away and to remove the cauſe, to
+take away that and to remove that, and to work out, and to expell out all that
+in you which hath cauſed a ſe<g ref="char:EOLhyphen"/>paration betwixt God and you, that is to feel
+and to ſee the power of the Lord God to work out, and to expell ſin and
+iniquity; for ſaith the Lord, <hi>your ſins have ſeparated you from me,
+and your iniquities hath with-held good things from you;</hi> ſo wait ye in
+the Croſſe, that you may all ſeek, and ſee the power of the Lord God to
+break down the partition-wall, to break down that in you which is yet
+ſtanding as a wall in you, which is the man of ſin, which ſeparates you
+from the Lord God, who created you; And ſo all wait in pati<g ref="char:EOLhyphen"/>ence in the
+Light, and keep in your minds ſtaid in it, I ſay wait in patience in the
+Light, that you may feel and ſee the power of the Lord God to rent the vail,
+and to take it off the heart, for through mans diſobedience unto the Lord God
+who created him, there came a vail over the heart by reaſon of ſin and
+tranſgreſſion, which vailed the Creature from the Lord; So now I ſay in
+love unto all your ſouls, wait ye in patience in the <hi>Croſſe,</hi>
+that you may feel and ſee the pure power of the Lord God, to take away, and
+to re<g ref="char:EOLhyphen"/>move, and to expell, and to work out all that which is yet 
+<pb n="13" facs="tcp:102390:7"/>remaining alive in you, which entered into man through
+diſobedience and tranſgreſſion, by the reaſon of which man loſt the
+image in which he was created, and loſt alſo his Union, and Communion, and
+Fellowſhip which he had with the Lord God before he diſobeyed; ſo through
+diſ<g ref="char:EOLhyphen"/>obedience man was driven into the Earth from the preſence of the
+Lord.</p>
+            <p>So all people who are yet in the fall in the tranſgreſſion,
+and without God in the world, this is the counſel of the Lord God unto you
+all, <hi>turn in, turn in</hi> your minds into the light of the Son of God
+which is made manifeſt in you, and receive it in the love of it, for the
+<hi>light</hi> is in all, and the <hi>light</hi> is one in all, but all have
+not received it in the love of it, and ſo by the light they are condemned;
+There<g ref="char:EOLhyphen"/>fore I ſay as you tender the good of your own ſouls, re<g ref="char:EOLhyphen"/>ceive the
+light in the love of it, and prize it above all things, and yield obedience to
+be led and guided by it; For this I teſtifie unto you from the Lord God, that
+as you receive the light in the love of it, and give up to be led and guided by
+it, it will lead you out of ſin, and out of evil, unto the Father from whence
+it came, <hi>who is light, and in him is no darkneſſe at all,</hi> for
+every good and perfect gift comes from above, from God the Father of
+<hi>lights,</hi> in whom is no va<g ref="char:EOLhyphen"/>riableneſſe nor ſhaddow of turning, and
+it will lead you as you yield obedience to be led, and guided by it, out of all
+falſe wayes, worſhips, cuſtoms, and traditions that are in the world, and
+out of the Church that is in the world into the true Church which is <hi>in
+God,</hi> which is built up of <hi>living,</hi> pure, precious, and elect
+<hi>ſtones,</hi> of which Chriſt is the Head, and there to worſhip the
+Father <hi>in Spirit and in Truth,</hi> for ſuch the Father ſeeks to
+worſhip him, and the time is already come, that the true worſhippers do
+worſhip the Father <hi>in Spirit and in Truth;</hi> And this I teſtifie
+unto you from the Lord, and I know what I ſay, having expe<g ref="char:EOLhyphen"/>rienced the thing
+in my own particular, that as you give up freely to be led and guided by the
+light of the Son of God, with which he hath enlightned you withall, that in it
+you will feel and ſee the power of the Lord God to ſave you out of ſin,
+and out of evil, and in it is power, ſtrength, <pb n="14" facs="tcp:102390:8"/>and
+ſufficiency to deſtroy ſin, which is the Devils work in <hi>you,</hi> and
+death, and he that hath the power of death, that is the Devil; for, for this
+end and purpoſe was the Son of God manifeſted for to deſtroy the works of
+the Devil; (Mark that all ye unbelievers who will not believe in Chriſt
+Jeſus the light, nor to have him to rule over you, who live in ſin and in
+wickedneſſe, and pleading for it term of life, and ſaying you cannot be
+free from ſin on this ſide the grave; here you do make your ſelves
+manifeſt to be of that number in whom Antichriſt, that is the man of ſin,
+hath his ſeat in you, there he ſits as if he were God, and he rules and
+reigns in you as King, and his Servants you are, and his works you do, and his
+Kingdom you ſtrive to uphold, and plead for it term of life, that is ſin
+and wickedneſſe; for ſo long as ſin and wickedneſſe rules and
+reigns in you, ſo long is Antichriſts Kingdom ſtanding in you, and ſo
+you crying up and pleading for ſin term of life, and ſaying that the
+Creature cannot be free from ſin while he is here on this ſide the grave,
+here you make void and of none effect the coming of Chriſt Jeſus the Son of
+God; for as it is recorded in the Scriptures of Truth, and alſo ſeen in the
+record of eternal life, that for this purpoſe the Son of God was manifeſted
+for to deſtroy the works of the De<g ref="char:EOLhyphen"/>vil; Now if the Creature muſt live in
+ſin and wickedneſſe all the dayes of his life, as you conclude and ſay
+he muſt, then is the Devils work not deſtroyed in him, which is ſin and
+evil, and ſo as I ſaid before you make void and of none effect the coming
+of Chriſt, which was to deſtroy the works of the Devil.</p>
+         </div>
+         <div type="section">
+            <head>No place for Repentance after Death.</head>
+            <p>
+               <hi>Here is a Querie unto all the hireling Prieſts of the
+Nation, who preach up this doctrine; that people muſt live in ſin all the
+dayes of their life, and cannot be cleanſed while they are on this ſide the
+grave, and yet when they die they ſhall be ſaved and enter into Gods
+Kingdom.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:102390:8"/>WHere or when, or which is the place that men
+and women muſt be cleanſed from ſin, if not in this life, of this ſide
+the grave, ſeeing that no unclean thing ſhall enter into the Kingdom of
+God; and as the Tree falls ſo it lies; and as Death leaves, Judgement finds;
+and ſaid Chriſt Jeſus the Light, except you believe that <hi>I am
+he,</hi> ye ſhall die in your ſins; and ſaid he, I go my way, ye ſhall
+ſeek me, and ſhall not find me, and whether I go, there ye can<g ref="char:EOLhyphen"/>not come.
+Now I do believe that moſt people will confeſſe, that Chriſt aſcended
+up into Heaven, and he ſaith as it is recorded in the Scriptures, except ye
+believe that <hi>I am he,</hi> ye ſhall die in your ſins, and whether I go,
+there you can<g ref="char:EOLhyphen"/>not come.</p>
+            <p>This is one of the damnable Doctrines, that the hire<g ref="char:EOLhyphen"/>ling
+Prieſts of this Nation teacheth, and it is no leſſe then the Doctrine of
+Devils; for they conclude that the Devil is of more power and ſtrength to
+keep men and women in ſin, then the Lord God is to redeem them out of ſin;
+But this I teſtifie from the Lord God againſt the hireling Prieſts of the
+Nation, and againſt all oppoſers and gain ſay<g ref="char:EOLhyphen"/>ers whatſoever, that
+Chriſt Jeſus the <hi>light</hi> of the World, who is the true light, that
+enlightneth every man that cometh into the World, who is the <hi>Power of
+God,</hi> and the Wiſ<g ref="char:EOLhyphen"/>dom of God, whoſe Name is called <hi>the Word of
+God;</hi> I ſay and teſtifie from the Lord, that he is of more power,
+ſtrength, and ſufficiency, to redeem fallen man and wo<g ref="char:EOLhyphen"/>man out of ſin,
+and out of evil, if they yield obedience to be led and guided by him, then the
+Devil, who is the prince of the power of the Aire, who rules in the hearts of
+the Children of diſobedience, hath to keep them in ſin and evil; Therefore
+I ſay, <hi>turn in your mindes,</hi> into the <hi>light</hi> of the Son of
+God, with which you are inlightned, which light is perfect; and as you receive
+the light in the love of it, which is perfect, and become one with it, you will
+come to feel the Power of the Lord God, to work out imperfection, which is of
+the Devil; So now I ſay, when the Creature comes to witneſſe the Devils
+work deſtroyed in him, which is ſin and evil, which cauſed a ſeparation
+be<g ref="char:EOLhyphen"/>twixt God and the Creature; I ſay when he comes to <pb n="16" facs="tcp:102390:9"/>witneſſe that deſtroyed in him, which muſt he deſtroyed by
+the <hi>Power of the Lord God,</hi> Chriſt Jeſus the light, who is the
+Power of God, and the Wiſdom of God, then he will come to have acceſſe
+unto God again; for it is the light which reconciles and unites unto God, and
+ſo by the light the Creature comes to have acceſſe unto God again; and as
+he keeps in the light continually, having his mind ſtaid therein, he will
+come to have union and communi<g ref="char:EOLhyphen"/>on, and fellowſhip with the Lord, as
+<hi>Adam</hi> had before he diſobeyed, and he will come to feel the living
+preſence of the Lord God to nouriſh his ſoul, and to refreſh his
+ſoul, and to ſtrengthen his ſoul, which hath been Lean, Dry, and Barren,
+and Weak, and Feeble for want of Bread, and ſo as he hath through
+diſobedience unto the Lord, born the image of the Earthly, I ſay, by
+yeilding obedi<g ref="char:EOLhyphen"/>ence unto the <hi>light</hi> of Chriſt made manifeſt in him,
+wait<g ref="char:EOLhyphen"/>ing there to feel the power of the Lord God, to put off the old man with
+his deeds, that is the old degenerated Nature, he will come to bear the image
+of the Heavenly; and as he gives up freely unto the Lord, to be led and guid<g ref="char:EOLhyphen"/>ed
+by him, he will come to have power and dominion over the Creatures, which God
+created for the uſe and ſervice of man, as man had the power over them at
+the begin<g ref="char:EOLhyphen"/>ning; for as by the diſobedience of <hi>one,</hi> many were made
+ſinners; ſo by the obedience of <hi>one,</hi> many ſhall be made
+righteous; and as in <hi>Adam</hi> all die, ſo in Chriſt all are made
+alive.</p>
+            <p>So all people who are yet in the Fall, in the Tranſgreſſi<g ref="char:EOLhyphen"/>on
+without God in the World, and are yet dead in ſins and treſpaſſes, this
+is the Counſel of the Lord God unto you, Turn in, turn in your minds, which
+are yet abroad in the Earth, into the light of the Son of God, as you prize the
+good of your own ſouls, and wait ye in patience in it, that you may feel the
+power of the Lord God to raiſe you up from Death to Life, and to quicken you,
+and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o make you alive, that ſo you
+may live for evermore, un<g ref="char:EOLhyphen"/>to the Praiſe and Glory of his moſt Holy Name;
+And this is the deſire of my ſoul, that you may all come to have Union, and
+Fellowſhip with the Lord God, as man <pb n="17" facs="tcp:102390:9"/>had before he
+diſobeyed; And that you may enjoy his pure living refreſhing preſence, to
+nouriſh your ſouls, and to refreſh your ſouls, and may come to eat of
+the food Immortal, of the bread Immortal, to nouriſh your ſouls, and to
+refreſh your ſouls, and to ſtrengthen your ſouls, which are Immortal;
+For there is nothing that can ſatisfie the ſoul which is immortal, but the
+bread immortal; For ſaith Chriſt Jeſus the righte<g ref="char:EOLhyphen"/>ous, who is the Lamb of
+God, which takes away the ſins of the World, your Fathers eat <hi>Manna</hi>
+in the Wilderneſs, and they are dead, but I will give you to eat of the
+hid<g ref="char:EOLhyphen"/>den <hi>Manna</hi> of the heart, and he that eateth thereof ſhall ne<g ref="char:EOLhyphen"/>ver
+die, for ſaith he, He that eateth of the Bread that I ſhall give him, he
+ſhall never hunger, and he that drinketh of the Water that I ſhall give
+him, he ſhall never thirſt, for it ſhall be in him a Well of living Water
+ſpringng up unto everlaſting life; And ſaith Chriſt Jeſus the Light,
+I am the living Bread which cometh down form above; and I tell ye from the
+Lord, except ye eat the Fleſh, and drink the Blood of the Son of Man, ye have
+no life in you, for his body is Meat indeed, and his blood is Drink indeed;
+ſo he that can receive it let him receive it, for they are the words of Truth
+unto you, and ſhall ſtand for ever.</p>
+            <p>So all people, this is my counſel and advice unto you once more,
+in the dread and fear of the Lord God, and it is in dear and tender love unto
+all your ſouls; Oh! turn in, turn in your minds, into the light of the Son of
+God which is made manifeſt in you, which light gives life unto the ſoul;
+for he that hath the Son hath life, but he that hath not the Son, not life. And
+ſo I have in plainneſſe, and ac<g ref="char:EOLhyphen"/>cording to truth, and not contrary, but
+according alſo unto the Scriptures of truth, which are as a cloud of
+wit<g ref="char:EOLhyphen"/>neſſes for me and for the truth which I have written, declared the way
+how fallen men and women may be re<g ref="char:EOLhyphen"/>ſtored into that pure, innocent ſtate
+and being which <hi>Adam</hi> was in before the fall, and the cauſe of his
+fall, was through diſobedience unto the Lord God. So the God of 
+<pb n="18" facs="tcp:102390:10"/>Heaven raiſe up his own witneſſe in you, and open
+your un<g ref="char:EOLhyphen"/>derſtandings, &amp; open that <hi>Eie</hi> in you which the God of
+this World hath blinded, that ſo you may ſee the things which belongs unto
+your ſouls peace, which is the deſire of my ſoul, the Lord God knoweth my
+heart, and that you may partake of that living vertue which nouriſheth our
+ſouls, and to have fellowſhip with us; for truly our fellowſhip is with
+the Father, and with his Son Chriſt Jeſus the light, who is the Author and
+Finiſher of our Faith, and he is the Anchor and Biſhop of our ſouls, who
+is God bleſſed for evermore, Amen.</p>
+         </div>
+         <div type="section">
+            <head>A Warning from the Lord God of life and power, in bowels of
+dear and tender love unto all the Rulers, Prieſts, and People, that they
+haſten to Repentance, who are ſpending their time with<g ref="char:EOLhyphen"/>out the fear of the
+Lord, and nouriſhing their hearts, as in a day of ſlaughter.</head>
+            <p>REpent, repent, repent, and return unto the Lord God of Heaven and
+Earth, whoſe voice is terrible unto the Nations, and all Nations are in his
+ſight but as the drop of a bucket, and as the ſmall duſt of the Earth; Oh
+dread and fear ye the living God, who rules in the Kingdomes of men, who hath
+the hearts of all men in his hand, and he can turn them whenſoever he
+pleaſeth; Oh all ye tall Cedars, and ſtout Oakes, thus ſaith the Lord
+God, that except ye ſpeedily repent and return unto the Lord, the Lord God
+will top you, and he will lay you low, and the Lord God will make you bend and
+bow before him, and he will ſtain the pride and the glory of all fleſh, and
+will make all to know that all fleſh is as graſſe, and the glory of man
+as the flower of the field, for the graſſe withereth, and the flower fadeth
+away, but the word of the Lord endureth for ever; By which word except you
+ſpeedily repent and return unto the Lord, the Lord God will cut you off, and
+then woe and miſery will be your portion for ever; Therefore I ſay un<g ref="char:EOLhyphen"/>to 
+<pb n="19" facs="tcp:102390:10"/>you all, who am a lover of all Souls, as you tender the
+good, wel-fare and happineſſe of your immortal ſouls, Re<g ref="char:EOLhyphen"/>turn, return
+unto the Lord, and unto his <hi>light</hi> in your con<g ref="char:EOLhyphen"/>ſciences which checks
+and reproves you for ſin and evil, and makes manifeſt the evil of your
+doings unto you, when there is no outward eye ſees you or can accuſe you of
+them, yet the al-ſeeing eye of the Lord God ſees you and beholds you, and
+he is preſent with his light, which is his true and faithfull witneſſe in
+you, to condemn you for the evil of your doings, which light in you never
+conſented to ſin or evil, but ſtands a witneſſe for God in you
+againſt ſin and evill; Therefore I ſay unto the light of Chriſt take
+heed, as you prize the good of your own ſouls, and put not the day of the
+Lord afar off any longer, for to day ſaith the Lord, if you will hear my
+voyce harden not your hearts; Oh ye Stif-necked, and Rebellious, and
+Uncircumciſed, in hearts and ears, ye do alwayes reſiſt the holy Ghoſt,
+as your fathers did ſo do ye; Oh prize the light, prize the day of the Lords
+Viſitation of you, for now he is viſiting of you with his pure
+everlaſting love, and he waits to be gracious unto you, and for your return;
+Oh return return ye unto the Lord God and hearken to his reproof, and go on no
+longer in rebellion, nor ſtif-neckedneſſe againſt the Lord, for if you
+do you will provoke the Lord againſt you to de<g ref="char:EOLhyphen"/>ſtroy you, which is not the
+deſire of the Lord, if you will return unto him, for ſaith the Lord, <hi>I
+deſire not the death of one ſinner, but rather that all ſhould turn and
+live;</hi> for ſaith he, Oh houſe of <hi>Iſrael,</hi> why wilt thou dye,
+why wilt thou dye? turn unto me and thy Soul ſhall live; Oh people why will
+ye dye, why will ye dye; Oh return, return unto the Lord; and your ſouls
+ſhall live, for he hath long waited, and is yet waiting for your re<g ref="char:EOLhyphen"/>turn, for
+ſaid the Lord, Oh <hi>Jeruſalem Jeruſalem,</hi> how oft would I have
+gathered thee as a hen gathereth her chick<g ref="char:EOLhyphen"/>ings under her wings, but ye would
+not; And all the day long ſaith the Lord have I ſtretched out mine hand
+unto a diſobedient and a gain-ſaying people, who would have none of my
+Councel, neither regarded they my reproof, <pb n="20" facs="tcp:102390:11"/>but chooſe the
+things wherein I delighted not; Therefore people as you tender the good of your
+own Souls, return unto the Lord God while he waits for your return, and while
+his hand is ſtretcht forth unto you; For this I teſtifie unto you from the
+Lord God, that the day of your viſitati<g ref="char:EOLhyphen"/>on is near paſſed over your
+heads, and the time is very near approaching that the ſpirit of the Lord God
+will leave ſtriving with you, for my ſpirit ſaith the Lord ſhall not
+alwaies ſtrive with man; Then woe and miſery will be your portion for ever,
+and a day of blackneſs, a day of darkneſſe, and a day of gloomineſſe,
+you ſhall aſſuredly come to witneſſe where you ſhall weep and howl
+for ſorrow and vexation of ſpirit, and then there ſhall be none to pit<g ref="char:EOLhyphen"/>ty
+you, and this ſhall aſſuredly come upon you, except you ſpeedily repent
+and return unto the Lord, for what I ſpeak, I ſpeak infallibly, and it
+ſhall ſtand for ever.</p>
+            <p>Therefore all ye Rulers, Prieſts and people, I warn you from the
+Lord God of life and power that you haſten to re<g ref="char:EOLhyphen"/>pentance and amendment of
+life, knowing aſſuredly from the Lord, that there is a woeful day
+approaching and is near at hand upon all the heads of the wicked and the
+un<g ref="char:EOLhyphen"/>godly, and the Lord will make many open examples unto others except they
+ſpeedily repent and return unto him, for the month of the Lord hath ſpoken
+it; Therefore I ſay as you price the good of your own ſouls, provoke the
+Lord no longer againſt you, but while ye have time prize it, for the time
+preſent is all peoples time to make their peace with the Lord, for the time
+paſt cannot be recalled again, and the time to come is in the hands of the
+Lord, and he can ſtop the breath in your noſtrils, and take it out of your
+bodies, and then time will be no more to you; Oh! prize the light, prize the
+day of the Lords viſitation of you, for as I ſaid before, ſo I ſay
+again, from the Lord, that the day of your viſitation is near paſſed over
+your heads, and when it is paſſed over your heads, then you may ſeek the
+Lord, and ſhall not find him, and call upon him, and he will not hear you.
+(Why?) becauſe ſaith the Lord, when I called ye would not anſwer, and
+when I <pb n="21" facs="tcp:102390:11"/>ſpoke ye would not hear, then will the Lord mock
+at your calamity, and laugh when your fear cometh; Therefore I ſay, ſeek ye
+the Lord while he may be found, and call upon him while he is near you for he
+is a God athand, and not a God a far off, and he is near unto all that call
+upon him in truth and in righteouſneſſe.</p>
+            <p>Oh! Earth, Earth, Earth; Oh! People, People, Peo<g ref="char:EOLhyphen"/>ple, dread and
+fear the living God, and tremble and bow before him, whoſe day is at hand,
+that will burn as an Oven, Yea, and all the proud, and all that do
+wickedneſſe ſhall be as ſtubble; and except you ſpee<g ref="char:EOLhyphen"/>dily repent and
+return unto him, he will burn you up, and he will leave you neither root nor
+branch, and then the Rocks and the Mountains, nor all your outward ſtrength
+ſhall not be able to ſave you from the wrath of the Lamb, nor from the
+indig<g ref="char:EOLhyphen"/>nation of the Juſt One, who is riſen, and ariſing as a Mighty man
+of War to take the Kingdom, and the greatneſſe of the Kingdoms; Yea, he is
+riſen and ariſing to plead with all fleſh by Fire and by Sword, and the
+ſlain of the Lord ſhall be many, for the Sword of the Lord is drawn and
+furbiſhed, and he is preparing of it for the ſlaughter, and except you
+ſpeedily return unto the Lord, he will kindle a fire in your bowels which
+ſhall never be quenched, until it hath conſumed you; Therefore all ye tall
+Cedars, Sturdy and ſtout ones, if you go on in rebellion, and
+ſtif-neckedneſſe againſt the Lord, and continue your perſecuting, and
+impriſon<g ref="char:EOLhyphen"/>ing of the ſervants of the moſt high God, which are by you
+reproachfully called <hi>Quakers;</hi> thus ſaith the Lord God, I will daſh
+you to pieces as a potters Veſſel, and will make you bend and bow before me
+ſaith the Lord, and will exalt the horn of mine Anointed.</p>
+            <p>Therefore all ye Rulers, Prieſts and People, whoſe truſt is
+in the Arm of fleſh, and whoſe ſtrength <pb n="22" facs="tcp:102390:12"/>conſiſteth in the Hoſt of men, and in Horſes, and Chariots,
+and in Tumults, Noiſes, and Voices, and although you have made a Covenant
+with Death, and an agreement with Hell, yet your Co<g ref="char:EOLhyphen"/>venant with Death and
+agreement with Hell, ſhall be broken by the Power of the Lord God, and
+al<g ref="char:EOLhyphen"/>though at the preſent you have power to caſt the ſervants of the
+moſt High God, ſome into one Priſon, and ſome into another, and ſome
+into Dun<g ref="char:EOLhyphen"/>geons and Holes, and under many locks and boults, and make havock and
+ſpoil of their goods, yet thus ſaith the Lord God, that he will not leave
+us, nor forſake us, for our enemies to deſtroy us; but he will with his own
+out-ſtretched Arm bring deliverance for us, as we wait in patience on him;
+which de<g ref="char:EOLhyphen"/>liverance ſhall be beyond the expectation of man, whoſe breath is
+in his Noſtrils; And it ſhall be an aſtoniſhment unto all the Heathen
+round about, and the Lord God will give us the necks of our Enemies to tread
+upon, and they ſhall be as aſhes under the ſoles of our feet; And this I
+can tru<g ref="char:EOLhyphen"/>ly and boldly ſay, through the love of God to<g ref="char:EOLhyphen"/>wards me, whoſe love
+I hope will never be forgot<g ref="char:EOLhyphen"/>ten by me, although at the preſent <hi>I</hi> am
+in out<g ref="char:EOLhyphen"/>ward bonds, yet nevertheleſſe in the pure Eter<g ref="char:EOLhyphen"/>nal truth of God I do
+reign and triump, and do Trample upon all the heads and necks of the wicked,
+and this I do declare in boldneſſe from the Lord God, who hath ſaid and
+doth ſtill ſay unto me, fear not what man can do unto thee, for <hi>I</hi>
+will never leave thee nor forſake thee; That the Lord God will make you all
+bend and bow unto his pure everlaſting truth, which he hath by his own power
+gathered us into, who are ſcornfully and reproachfully by you called
+<hi>Quakers.</hi> (Mark) <hi>I</hi> do not ſay that you ſhall bend and bow
+unto us as Creatures, but unto his pure everlaſting Truth, and unto his pure
+Divine power by which we are upheld, and by which we reign over all 
+<pb n="23" facs="tcp:102390:12"/>the heads of the wicked.</p>
+            <p>Yea verily, the Lord God will make you bow un<g ref="char:EOLhyphen"/>to his Son Chriſt
+Jeſus the light of the World, who is the true light, that enlightneth every
+man that cometh into the World, who is the Way, the Truth, and the Life, who is
+riſen to rule the Na<g ref="char:EOLhyphen"/>tions with a Rod of Iron, and he will make all bend and
+bow before him; for there is no other Name by-which any man can be ſaved, but
+by the Name of Je<g ref="char:EOLhyphen"/>ſus, at which every knee ſhall bow, and every tongue
+ſhall confeſſe unto him, and although <hi>Gog</hi> and <hi>Magog,</hi>
+Beaſt and falſe Prophet, and all the powers of darkneſſe joyn hand in
+hand, and gather to gather, and make a head againſt the Lamb and his
+Followers, yet the Lamb ſhall gain the Victory; For there is no Weapon formed
+againſt you ſhall proſper, ſaith the Lord. And know this aſſuredly,
+that the work which the Lord God hath begun in the Earth, he will accompliſh
+it, and you can no more ſtop or hinder the work of the Lord which he hath
+begun, then you can ſtop or hinder the Sun from riſing, or the Wind from
+blowing, or the Rain from deſcending, no more can you ſtop or hin<g ref="char:EOLhyphen"/>der the
+Work of the Lord; Therefore in vain, do you ſtrive againſt the Lord and his
+Anointed, for if I do work ſaith the Lord, who can hinder? Therefore all ye
+fruitleſſe Trees, which cumbers the ground, ye are good for nought but for
+the fire, who have long made a profeſſion of a God, and a Chriſt in
+words, but in life and in power you do deny him; For now is the Lord come to
+ſeek for Fruit, and behold what is to be found a<g ref="char:EOLhyphen"/>mongſt you but corruption
+and wickedneſſe, for the beſt of you is as a Bryar, and the upright<g ref="char:EOLhyphen"/>eſt
+of you ſharper then a Thorn hedge, ſo you are found to be fruitleſſe
+Trees which cumbers the Ground, ye are good for nothing but for the fire, and
+now is the Ax laid to the Root of the Tree, and <pb n="24" facs="tcp:102390:13"/>every Tree
+that bringeth not forth good fruit, ſhall be hewed down and caſt into the
+fire; Therefore ceaſe profeſſing of a God and a Chriſt in words, and
+make no more profeſſion of a God and a Chriſt in words then you can
+witneſſe of them in life and in power; for profeſſion without
+poſſeſſion, is no more before the Lord, then the Chaffe is before the
+Wind, neither is it any more in the fight of the Lord, then the cutting off a
+Dogsneck, or offer<g ref="char:EOLhyphen"/>ing Swines blood.</p>
+            <p>Therefore all ye Rulers, Prieſts and People, who profeſſe
+and call your ſelves Chriſtians, truly it would rejoyce my ſoul if I
+could ſee the fruits of Chriſtianity brought forth by you; Now conſider
+and lay it to heart, and let the witneſs of God in you all anſwer, unto
+which I ſpeak, and unto which I am commended, and unto which I do appeal, is
+not Swearing, Drunkenneſs, Lying, Covetouſneſs, Cozening, and Cheating,
+Defrauding, and double<g ref="char:EOLhyphen"/>dealing alive and remaining in you, and is not Malice,
+Strife, Wrath, Envy, Hatred, and Perſecu<g ref="char:EOLhyphen"/>tion alive and remaining in you,
+unto the Witneſs of God in all your Conſciences do I ſpeak, which I know
+from the Lord God will anſwer for me, and againſt your ſelves, and that
+you are guilty of theſe evils which are here mentioned; then ſay I that the
+old man with his deeds is yet alive in you un-put off, that is, the old
+degenerated nature, and ſo you do make your ſelves manifeſt to be of them
+which ſay they are Jewes and are not, but are of the Synagogue of Sathan, for
+he that is in Chriſt is a new Creature; (Mark that) I ſay he that is in
+Chriſt is a new Creature, old things are done away, and all things become
+new, ſo the old man with his deeds being yet alive in you, you have got the
+name (Chriſtian) but not the na<g ref="char:EOLhyphen"/>ture, ſo as the Body without the Spirit is
+dead, ſo the Name without the Nature is dead alſo; for <pb n="25" facs="tcp:102390:13"/>to ſay Chriſtians, is as much as to ſay Chriſt-like, but you
+are ſeen in the Eternal light of God not to bear his Image, but the Image of
+another, the Image of the Earthly, the Image of Antichriſt, that is the man
+of ſin, and his works you do, and his Servants you are, and his Kingdom you
+ſtrive to uphold; So now there hath been for many years a great talk of
+Reformation, the Nation of <hi>England</hi> to be a Reformed Nation, and the
+People of <hi>En<g ref="char:EOLhyphen"/>gland</hi> to be a Reformed People; Why now conſi<g ref="char:EOLhyphen"/>der, and
+turn in your minds into the light of the Son of God which is made manifeſt in
+you, and commune with your own hearts, and be ſtill, and enter into your
+Cloſets, and let the door be ſhut, enter into your own hearts, and take
+heed unto the light of the Son of God in you, and come and let us reaſon
+together a little there; what is that you are reform<g ref="char:EOLhyphen"/>ed from, or what is that
+you are reformed unto, doth not ſin and iniquity run down as a flood in
+<hi>Englands</hi> ſtreets, and ungodlineſſe as a ſtream, and peoples.
+mouths filled with bitterneſs and curſing, and are not they that depart
+iniquity made a prey to thoſe who live in iniquity, and they whom the Lord
+God hath redeemed out of the World, and ſtand in his dread and fear, they are
+the Song of the Drunkard, and a by-word unto a wicked and perverſe generation
+of ſcorners, who ſay, who is the Lord that we ſhould fear him, and to the
+Al<g ref="char:EOLhyphen"/>mighty depart from us, for we deſire not the know<g ref="char:EOLhyphen"/>ledge of thy waies, and
+ſay you we will not have this man to reign over us; that is, you will not
+have Chriſt Jeſus the light to rule over you, you will not have the light
+of Chriſt in you to reign; for ſay you, if we ſhould own the light of
+Chriſt in us, and that to rule in us, then we muſt lay down our Crowns,
+ſaies you tall Cedars and great Ones of the Earth, and our Honour and Glory
+we muſt looſe, and ſaies all you Prieſts and People, 
+<pb n="26" facs="tcp:102390:14"/>if we ſhould receive the light and that rule in us, then
+we muſt deny all our gain of ungodlineſs, and all our Pleaſures, Sports,
+and Paſtimes we muſt deny; But thus ſaith the Lord, that except you
+ſpeedily repent and return unto me ſaith the Lord, I will ariſe and wound
+the hairy ſcalp of the wicked, and your eares ſhall tingle, and fear and
+terrour ſhall take hold and ſurprize the Hypocrite, and your hearts ſhall
+wax faint, and your ſtrength ſhall be taken away, and ye ſhall have your
+portion in the lake which burns for ever, and there ye ſhall be tormented
+from the preſence of the Lord.</p>
+            <p>Oh poor hearts my ſoul pities you, the Lord God knoweth my
+heart, and oft times is my heart taken up with a great lamentation, and a great
+pity runs forth from me towards you, when I conſider what a ſad ſtate and
+condition you are in, as to your Eternal being, and alſo what a ſad and a
+woful day is coming upon you, for many of you ſhall be made open ex<g ref="char:EOLhyphen"/>amples
+unto others, except you ſpeedily re<g ref="char:EOLhyphen"/>pent and return unto the Lord; Therefore
+as you tender the good of your own ſouls, turn at the reproof of the Lord,
+and ceaſe from your outward Teachers, who keeps you ever learning, and never
+able to come to the know<g ref="char:EOLhyphen"/>ledge of the Truth, who ſpeaks a divination of their
+own brain, and not from the mouth of the Lord, for they run and I never ſent
+them, therefore they ſhall not profit the peo<g ref="char:EOLhyphen"/>ple at all ſaith the Lord,
+but if they had ſtood in my counſel, then they ſhould have turned people
+from the evil of their waies; therefore I ſay turn in your minds into the
+light of the <pb n="27" facs="tcp:102390:14"/>Son of God, and hearken diligently unto the
+voice of the true Prophet Chriſt Jeſus the Light of the World, who is the
+true Light that enlightneth every man that cometh into the World, and he that
+will not hear this Prophet ſhall be deſtroyed from amongſt the people;
+Therefore I ſay as you tender the good of your own ſouls, ceaſe from your
+outward Teachers, from your greedy hirelings, from your deceit<g ref="char:EOLhyphen"/>ful Merchants,
+who ſteal the true Prophets words, Chriſts words, and the Apoſtles words,
+and makes a Trade of them, and ſells them to poor ignorant people for money;
+Oh People, uphold their gain of Unrighteouſneſſe no lon<g ref="char:EOLhyphen"/>ger, for you have
+ſold your ſelves for nought, and ye ſhall be redeemed without money, for
+they make Merchandize of ſouls for diſhoneſt gain, who are in the way of
+<hi>Cain,</hi> and run greedily after the errour of <hi>Balaam,</hi> who lo<g ref="char:EOLhyphen"/>ved
+the wages of Unrighteouſneſſe, and they ſtand in the gain-ſaying of
+<hi>Corah,</hi> and receive the wages of Unrighteouſneſſe, who teach the
+things they ought not for filthy lucres ſake, whoſe mouths muſt be
+ſtopped, who ſubvert whole houſes, whoſe God is their belly, whoſe
+glory is their ſhame, whoſe end is deſtruction, who mind earthly things,
+but ſuch ſerve not our Lord Jeſus Chriſt but their own bellies, their
+throat is an open Sepulchre, and with their Tongues they utter deceit, the
+poyſon of Aſps is under their lips, and their feet are ſwift to ſhed
+bloud, and they run on in their own way, but the way of peace they know not; 
+<pb n="28" facs="tcp:102390:15"/>Therefore all People, conſider and lay to heart what they
+have profited you, and let the wit<g ref="char:EOLhyphen"/>neſſe of God in you all anſwer, and
+ſpend your money no longer for that which is not bread, nor your labour for
+that which ſatisfies not; Now this is the call of the Lord God unto you all,
+come forth from amongſt them, and touch not the unclean, and I will receive
+you ſaith the Lord; Therefore I ſay come forth of <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> and be
+not partakers with her in her ſins, leaſt ye alſo partake with her in her
+Plagues; And this is alſo the call of the Lord unto you all, Ho, every one
+that thirſteth come buy and eat, yea, come buy wine and milk freely, with<g ref="char:EOLhyphen"/>out
+money and without price, come to the water of life freely, for there is a
+Fountain ſet open for <hi>Judah</hi> and for <hi>Jeruſalem,</hi> for ſin
+and for uncleanneſſe; Therefore I ſay People, ſpend your money no
+longer for that which is not bread, nor your labour for that which ſatisfies
+not, for you have ſold your ſelves for nought, and ye ſhall be Redeemed
+without Money; Therefore all People, as you tender the good of your own
+ſoules, drink of the Whores Cup no longer, which <hi>Babylons</hi> Merchants
+holds forth unto you, as a golden Cup, but within is full of deadly poy<g ref="char:EOLhyphen"/>ſon;
+but turn in your minds into the light of Chriſt in your own conſciences,
+and this I teſtifie unto you from the Lord, as you yield obedience to be led
+and Guided by it, it will lead you out of ſin and out of evil, and out of all
+falſe waies, Worſhips, Cuſtoms, and <pb n="29" facs="tcp:102390:15"/>Traditions that
+are in the World, and out of the falſe Church that is in the World, into the
+true Church that is in God, which is built up of Living, Pure, Pretious, Elect
+ſtones, of which Church Chriſt is the Head; and it will lead you unto the
+Father from whence it came, there to worſhip the Father in ſpirit and in
+truth, for ſuch the Father ſeeks to worſhip him, and the time is already
+come, that the true Worſhippers do worſhip the Father in ſpi<g ref="char:EOLhyphen"/>rit and in
+truth.</p>
+            <p>But the Beaſt and falſe Prophet, ſhall be taken alive and
+caſt into the Lake of Fire and Brimſtone, which burns for ever, where they
+ſhall be tormented in flames from the preſence of the Lord God, who will
+reward every one according unto their deeds, and works done in the Body,
+whether they be good, or whe<g ref="char:EOLhyphen"/>ther they be evil.</p>
+            <p>Of the Lord God of life and power was <hi>I</hi> moved to write
+unto you, and it is in Bowels of dear and tender love unto all your ſoules,
+and whether you will hear or forbear, <hi>I</hi> ſhall be clear of your
+bloods, and ſhall be a good ſa<g ref="char:EOLhyphen"/>vour unto them that are ſaved, and unto
+them that periſh; <hi>I</hi> remain a lover of your immortal ſoules; but as
+the Lord requireth of me, in obe<g ref="char:EOLhyphen"/>dience unto him, <hi>I</hi> muſt hear my
+Teſtimony a<g ref="char:EOLhyphen"/>gainſt all ſin and wickedneſſe, in whomſoever I ſee
+it, whether in Rulers, Prieſts, or Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>As I was waiting on the Lord, and my mind being exerciſed in the
+light of the Son of God, <pb facs="tcp:102390:16"/>in the <hi>Dungeon</hi> at
+<hi>Warwick,</hi> on the 9<hi rend="sup">th</hi>. and 10<hi rend="sup">th</hi>. Day of the Month called
+<hi>May,</hi> 1661. Moſt of this that is herein written, did the Lord God put
+it freſh into my heart, and it did remain in me till the 20<hi rend="sup">th</hi>. day of the
+ſame Month, and then the Lord added more unto it, and in obe<g ref="char:EOLhyphen"/>dience unto him,
+I gave it forth.</p>
+            <closer>
+               <signed>From a Priſoner and a Servant of the Lord, and a lover of
+all ſouls, who ſuffered 16. weekes in out<g ref="char:EOLhyphen"/>ward Bonds, in the
+<hi>Dungeon</hi> at <hi>Warwick,</hi> (which is 20. Staires down) becauſe in
+obedience unto the Lord, and unto his Law which he hath written in my heart, I
+could not promiſe to for<g ref="char:EOLhyphen"/>ſake the aſſembling of my ſelf with Gods
+choſen and elect ones, called <hi>Quakers,</hi> who is reproach<g ref="char:EOLhyphen"/>fully, and
+ſcornfully called <hi>Quaker,</hi> but am known to the World by name. 
+Tho. Kent.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:102390:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
